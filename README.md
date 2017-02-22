@@ -1,2 +1,2 @@
 # pyMagician
-Module for using irMagician via serial
+Python module for using irMagician via serial port
