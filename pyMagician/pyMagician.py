@@ -2,7 +2,7 @@
 
 import serial
 
-import irjob
+from .irjob import *
 
 BANK_MAX = 640
 

@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
+
 from setuptools import setup, find_packages
-from src import __author__, __version__, __license__
-import sys
-sys.path.append('./src')
+
+from pyMagician import __author__, __version__, __license__
 
 setup(
         name             = 'pyMagician',
