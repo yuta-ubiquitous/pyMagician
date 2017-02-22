@@ -2,6 +2,8 @@
 # coding: utf-8
 from setuptools import setup, find_packages
 from src import __author__, __version__, __license__
+import sys
+sys.path.append('./src')
 
 setup(
         name             = 'pyMagician',
